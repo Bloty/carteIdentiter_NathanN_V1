@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1549573380 source:d:\cours_ludus\anne_2\cours_c\code_blocks\carte_identité\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"carte_identite.h"
+	"ficher.h"
+
+1549570620 d:\cours_ludus\anne_2\cours_c\code_blocks\carte_identité\carte_identite.h
+	<stdio.h>
+	<stdlib.h>
+
+1549570614 source:d:\cours_ludus\anne_2\cours_c\code_blocks\carte_identité\carte_identite.c
+	"carte_identite.h"
+
+1549295987 d:\cours_ludus\anne_2\cours_c\code_blocks\carte_identité\ficher.h
+	<stdio.h>
+	<stdlib.h>
+	"carte_identite.h"
+
+1549570324 source:d:\cours_ludus\anne_2\cours_c\code_blocks\carte_identité\fichier.c
+	"ficher.h"
+
+1549570614 source:d:\cours_ludus\anne_2\cours_c\code_blocks\carte_identité_v2\carte_identite.c
+	"carte_identite.h"
+
+1549570620 d:\cours_ludus\anne_2\cours_c\code_blocks\carte_identité_v2\carte_identite.h
+	<stdio.h>
+	<stdlib.h>
+
+1549570324 source:d:\cours_ludus\anne_2\cours_c\code_blocks\carte_identité_v2\fichier.c
+	"ficher.h"
+
+1549295987 d:\cours_ludus\anne_2\cours_c\code_blocks\carte_identité_v2\ficher.h
+	<stdio.h>
+	<stdlib.h>
+	"carte_identite.h"
+
+1549574188 source:d:\cours_ludus\anne_2\cours_c\code_blocks\carte_identité_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"carte_identite.h"
+	"ficher.h"
+
